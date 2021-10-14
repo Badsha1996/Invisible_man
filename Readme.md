@@ -1,5 +1,6 @@
 # *Invisible suit* 
 This is a simple project based on `python` library `opencv`. Open the project, run it with python IDE. the give it some time to capture the backgroud. Use a red cloth to make yourself invisible.
+## [Demo link] (https://www.linkedin.com/posts/badsha-laskar_opencv-python-project-ugcPost-6845981055690903552-8-US)
 ## Algorithm
 The concept for this project is simple. 
 * **step:**
